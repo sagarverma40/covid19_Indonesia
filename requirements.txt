@@ -1,1 +1,2 @@
 plotly
+import matplotlib.pyplot as plt
